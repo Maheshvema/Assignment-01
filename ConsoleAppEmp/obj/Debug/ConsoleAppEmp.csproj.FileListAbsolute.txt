@@ -1,0 +1,7 @@
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-3 assignments\ConsoleAppEmp\ConsoleAppEmp\bin\Debug\ConsoleAppEmp.exe.config
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-3 assignments\ConsoleAppEmp\ConsoleAppEmp\bin\Debug\ConsoleAppEmp.exe
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-3 assignments\ConsoleAppEmp\ConsoleAppEmp\bin\Debug\ConsoleAppEmp.pdb
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-3 assignments\ConsoleAppEmp\ConsoleAppEmp\obj\Debug\ConsoleAppEmp.csproj.AssemblyReference.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-3 assignments\ConsoleAppEmp\ConsoleAppEmp\obj\Debug\ConsoleAppEmp.csproj.CoreCompileInputs.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-3 assignments\ConsoleAppEmp\ConsoleAppEmp\obj\Debug\ConsoleAppEmp.exe
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-3 assignments\ConsoleAppEmp\ConsoleAppEmp\obj\Debug\ConsoleAppEmp.pdb
